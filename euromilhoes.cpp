@@ -36,7 +36,7 @@ int main()
 		num(5,50);
 		
 		cout << "\nEstrelas:\n ";
-		num(2,11);
+		num(2,12);
 
 		cout << endl;
 		cout << "\nPrima 0 para sair.\n";
