@@ -29,6 +29,7 @@ int main()
 	srand(time(NULL));
 
 	do{
+		cout << "\033[2J\033[1;1H";
 		cout << "\n*** Euromilhoes ***\n";
 		
 		cout << "\nNumeros:\n ";
