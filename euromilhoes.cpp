@@ -40,7 +40,7 @@ int main()
 
 		cout << endl;
 		cout << "\nPrima 0 para sair.\n";
-		cin >> o;
+		o=getchar();
 	}while(o!='0');
 	
 	return 0;
